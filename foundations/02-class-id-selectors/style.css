@@ -1,22 +1,18 @@
 .second {
-    background-color: pink;
-    color: black;
-    font-size: 32px;
-    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .class {
-    font-size: 64px;
+    font-size: 24px;
 }
 
 #first {
-    color: blue;
-    font-size: 64px;
+    color: #0000ff;
+    font-size: 36px;
 }
 
 #other-first {
-    background-color: aquamarine;
-    font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
