@@ -1,0 +1,22 @@
+.second {
+    background-color: pink;
+    color: black;
+    font-size: 32px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.class {
+    font-size: 64px;
+}
+
+#first {
+    color: blue;
+    font-size: 64px;
+}
+
+#other-first {
+    background-color: aquamarine;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
